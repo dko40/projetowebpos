@@ -3,5 +3,5 @@ jumb.onmouseover = function () {
     document.getElementById("jumbotron").style.backgroundColor = "#00FFFF";
 }
 jumb.onmouseout = function () {
-    document.getElementById("jumbotron").style.backgroundColor = "#00CED1";
+    document.getElementById("jumbotron").style.backgroundColor = "#7FFFD4";
 }
